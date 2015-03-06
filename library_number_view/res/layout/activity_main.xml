@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.zhy.view.AutoScrollTextView
+        android:id="@+id/id_scroll_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/number_bg"
+        android:padding="13dp"
+        android:textColor="#FFFA7600"
+        android:textSize="60sp" />
+
+</RelativeLayout>
