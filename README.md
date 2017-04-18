@@ -7,10 +7,10 @@
 ## DOWN
 ![IMAGE][1]
 
-##UP
+## UP
 ![IMAGE][2]
 
-##DOWN_AND_UP
+## DOWN_AND_UP
 ![IMAGE][4]
 
 
